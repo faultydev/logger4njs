@@ -1,6 +1,6 @@
 {
   "name": "logger4njs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Logger for Node JS",
   "main": "index.js",
   "directories": {
