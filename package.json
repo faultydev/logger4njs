@@ -1,0 +1,27 @@
+{
+  "name": "logger4njs",
+  "version": "1.0.2",
+  "description": "Logger for Node JS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ../test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faultydev/logger4njs.git"
+  },
+  "keywords": [
+    "logger",
+    "log4njs",
+    "logging"
+  ],
+  "author": "faultydev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faultydev/logger4njs/issues"
+  },
+  "homepage": "https://github.com/faultydev/logger4njs#readme"
+}
